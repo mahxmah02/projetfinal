@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    height: 130px;
+    padding: 5px;
+    align-items: center;
+}
+.nav-logo{
+    width: 50%;
+    margin: 50px;
+}
+.nav-logo img{
+    width: 100px;
+}
+.nav-icon{
+    display: flex;
+}
+ 
+.nav-icon i{
+margin: 50px;
+ }

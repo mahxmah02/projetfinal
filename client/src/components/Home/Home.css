@@ -1,0 +1,15 @@
+.cadre-page{
+
+    width: 85%;
+    min-height: 70vh;
+    margin-left: 130px;
+}
+.bann{
+    width: 100%;
+display: flex;
+justify-content: center;
+}
+.bann img{
+width: 70%;
+margin-top: -50px;
+}

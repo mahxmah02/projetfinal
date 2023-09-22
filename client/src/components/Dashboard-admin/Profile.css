@@ -1,0 +1,32 @@
+
+.table{
+    margin-left: 150px;
+}
+
+.table td,
+.table th {
+    padding: 25px 20px;
+    text-align: left;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.table tr:nth-child(even) {
+    background: #f1f8f8;
+}
+
+.table tr:nth-child(4) {
+    background: #5bb9c0;
+    color: #fff;
+}
+.table img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.table .profile_name {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
